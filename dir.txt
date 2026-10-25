@@ -1,0 +1,22 @@
+10/23/2026  11:42 PM    <DIR>          .
+06/28/2025  04:56 PM    <DIR>          ..
+04/29/2026  08:16 AM             6,579 -1.14-windows.xml
+09/25/2026  05:57 PM    <DIR>          .cache
+08/29/2026  05:29 PM    <DIR>          .claude
+08/29/2026  05:29 PM               389 .claude.json
+08/01/2026  06:05 PM    <DIR>          .copilot
+09/21/2025  07:44 PM               178 .gitconfig
+09/20/2026  06:27 PM    <DIR>          .keras
+05/23/2026  06:33 PM    <DIR>          .matplotlib
+04/29/2026  08:05 AM    <DIR>          .MUMUVMM
+09/20/2025  06:21 PM    <DIR>          .vscode
+05/02/2026  06:42 PM    <DIR>          .vscode-shared
+06/29/2025  08:45 AM    <DIR>          AppData
+06/29/2025  08:45 AM    <JUNCTION>     Application Data [C:\Users\Andres Seydel\AppData\Roaming]
+06/29/2025  08:45 AM    <DIR>          Contacts
+06/29/2025  08:45 AM    <JUNCTION>     Cookies [C:\Users\Andres Seydel\AppData\Local\Microsoft\Windows\INetCookies]
+10/25/2026  06:22 PM    <DIR>          Desktop
+09/21/2026  12:08 AM    <DIR>          Documents
+10/25/2026  06:12 PM    <DIR>          Downloads
+06/29/2025  08:45 AM    <DIR>          Favorites
+06/29/2025  08:45 AM    <DIR>          Links
